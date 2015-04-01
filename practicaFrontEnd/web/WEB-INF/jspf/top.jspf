@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Titulo de Proyecto</title>
+	<link rel="stylesheet" href="css/estilos2.css">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+</head>
+<body>
+	
+	<header>
+		<div class="cabecera">
+			<img src="recursos/img/logo1.png" width="40" height="40" >
+			My Software V 0.01
+		</div>
+		<div class="menu">
+			<a class="btn btn-success btn-xs" href="prueba1.html" role="button">Menu</a>
+			<a class="btn btn-primary btn-xs" href="#" role="button">Categoria</a>
+			<a class="btn btn-warning btn-xs" href="#" role="button">Reporte</a>
+			<a class="btn btn-danger btn-xs" href="#" role="button">Cerrar sesion</a>
+		</div>
+		<div>
+			
+			<nav class="navbar navbar-inverse">
+		        <div class="container">
+		          <div class="navbar-header">
+		            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+		              <span class="sr-only">Toggle navigation</span>
+		              <span class="icon-bar"></span>
+		              <span class="icon-bar"></span>
+		              <span class="icon-bar"></span>
+		            </button>
+		            <a class="navbar-brand" href="#">My Softrware V0.02</a>
+		          </div>
+		          <div class="navbar-collapse collapse">
+		            <ul class="nav navbar-nav">
+		              <li class="active"><a href="prueba2.jsp">
+						<span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+		              	Menu</a></li>
+		              <li><a href="#about">Categoria</a></li>
+		              
+		              <li class="dropdown">
+		                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Reporte <span class="caret"></span></a>
+		                <ul class="dropdown-menu" role="menu">
+		                  <li><a href="#">Reporte diario</a></li>
+		                  <li><a href="#">Reporte semanal</a></li>
+		                  <li><a href="#">Reporte mensual</a></li>
+		                  <li class="divider"></li>
+		                  <li class="dropdown-header">Pago personal</li>
+		                  <li><a href="#">Pago mosos</a></li>
+		                  <li><a href="reporte.jsp">Pago cocineros</a></li>
+		                </ul>
+		              </li>
+		              <li><a href="#contact">
+						<span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+		              	Cerrar sesion</a></li>
+		            </ul>
+		          </div><!--/.nav-collapse -->
+		        </div>
+		      </nav>
+
+		</div>
+
+	</header>
+
+
+
+

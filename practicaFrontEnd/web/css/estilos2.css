@@ -13,11 +13,17 @@
 
 .cuerpo1{
 	text-align: justify;
-	height: 550px;
+	height: 480px;
 }
 
 .pie{
 	background: #BDBDBD;
-	font-size: 70%;
+	font-size: 90%;
 	text-align: center;
+}
+
+.menu{
+	/*padding: 20px;*/
+	margin-top: -25px;
+	margin-left: 66px;
 }

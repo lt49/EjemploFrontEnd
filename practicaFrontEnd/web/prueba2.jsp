@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Titulo de Proyecto</title>
-	<link rel="stylesheet" href="css/estilos2.css">
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-</head>
-<body>
-	
-	<header>
-		<div class="cabecera">
-			My Software V 0.01
-		</div>
-	</header>
+<%@include file="WEB-INF/jspf/top.jspf" %>
 
 	<div class="container">
 		<header class="titulo1">
@@ -35,18 +19,6 @@
 		</article>	
 		
 	</div>
-		
-	<footer>
-			<div class="pie">
-				&copy; Derechos reservador por el autor, Luis Santa María Ticlavilca
-			</div>
-	</footer>
+<%@include file="WEB-INF/jspf/bottom.jspf" %>		
 	
-	
-	
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="jquery/jquery-1.11.2.min.js"></script>
-	<script src="bootstrap/js/bootstrap.js"></script>
-</body>
-</html>
 
