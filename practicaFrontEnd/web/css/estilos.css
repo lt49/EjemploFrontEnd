@@ -1,0 +1,16 @@
+
+/*selector de etiqueta*/
+h3{
+	color: #0000FF;
+	/*font-weight: 900; */
+}
+
+p{
+	color: #31B404;
+	font-weight: bold;
+}
+
+/*selector de clase*/
+.cuerpo{
+	background: #FAAC58;
+}

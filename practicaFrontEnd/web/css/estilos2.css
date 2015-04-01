@@ -1,0 +1,23 @@
+.cabecera{
+	background: #000000;
+	color: #FFFFFF;
+	height: 80px;
+	font-size: 150%;
+	padding: 20px;
+}
+
+.titulo1{
+	text-align: center;
+	color: #0000FF;
+}
+
+.cuerpo1{
+	text-align: justify;
+	height: 550px;
+}
+
+.pie{
+	background: #BDBDBD;
+	font-size: 70%;
+	text-align: center;
+}
